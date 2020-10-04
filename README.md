@@ -1,10 +1,11 @@
-# Rocketseat Omni-Theme for Windows Terminal
+# Rocketseat Omni-Theme for Windows Terminal 🚀
 ## Eu descidi fazer o tema da Rocketseat para o Terminal do Windows!
 Segue abaixo exemplo de como ficou o terminal:
 
 ![Exemplo](./screenshot.png)
 
 Como instalar:
+
 1- Com seu Windows Terminal aberto, pressione as teclas CRTL+,
 
 2- Assim que o arquivo .json de configurações abrir procure pelo elemento: "schemes": {}
@@ -55,4 +56,4 @@ Como instalar:
 ###   },
 ### }
 
-## Pronto agora você ja tem o Tema da Rocketseat para o Windows Terminal!"# Omni-Theme" 
+Pronto agora você ja tem o Tema da Rocketseat para o Windows Terminal!"# Omni-Theme" 🚀
