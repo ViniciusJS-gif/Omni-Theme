@@ -6,7 +6,9 @@ Segue abaixo exemplo de como ficou o terminal:
 
 Como instalar:
 1- Com seu Windows Terminal aberto, pressione as teclas CRTL+,
+
 2- Assim que o arquivo .json de configurações abrir procure pelo elemento: "schemes": {}
+
 3- dentro de "schemes":{}, cole o texto a seguir:
 
 ### {
@@ -34,7 +36,9 @@ Como instalar:
 ### }
 
 4- Procure pelo elemento "profiles": {}
+
 5- Dentro de profiles crie outro elemento chamado "defaults": {} como mostra a seguir o código:
+
 
 ### "profiles": {
 ###    "defaults": {
@@ -43,6 +47,7 @@ Como instalar:
 ### }
 
 6- Dentro de Defaults, adicione o "colorScheme":{}, como mostra o código a seguir:
+
 
 ### "profiles": {
 ###    "defaults": {
